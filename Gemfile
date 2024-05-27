@@ -70,5 +70,5 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
-
+#確認
 gem 'devise'
