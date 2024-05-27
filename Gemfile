@@ -71,8 +71,7 @@ group :test do
   gem "webdrivers"
 end
 
-<<<<<<< コンフリクトB
-gem 'pry-rails'
-=======
+#確認
 gem 'devise'
->>>>>>> main
+gem 'pry-rails'
+
